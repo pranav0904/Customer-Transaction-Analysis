@@ -5,3 +5,7 @@
 2. Predictive Analytics 
    - Machine Learning
 
+Dependency:
+- cufflinks
+- Pandas
+- Matplotlib
